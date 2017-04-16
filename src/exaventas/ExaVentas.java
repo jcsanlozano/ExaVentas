@@ -12,10 +12,11 @@ import java.util.ArrayList;
  * @author prg
  */
 public class ExaVentas {
-
+// modificacion git
     // static ArrayList<Articulo> articulos;
     static Articulos articulos;
     static Ventas ventas;
+    static int numero;
 
     public static void main(String[] args) {
         generaListaArticulos();
