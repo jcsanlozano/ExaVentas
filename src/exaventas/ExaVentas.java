@@ -17,6 +17,7 @@ public class ExaVentas {
     static Articulos articulos;
     static Ventas ventas;
     static int numero;
+    static int n2;
 
     public static void main(String[] args) {
         generaListaArticulos();
