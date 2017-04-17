@@ -19,6 +19,7 @@ public class ExaVentas {
     static int numero;
     static int n2;
     static int n3;
+    static int n4;
 
     public static void main(String[] args) {
         generaListaArticulos();
